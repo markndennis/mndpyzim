@@ -1,6 +1,6 @@
-mndpy01
+mndpyzim
 =======
 
 GAE Python Test
 
-Nothing much to see here.  Just teaching myself some Python and playing with GAE.
+Nothing much to see here.  Just playing with Python and GAE.
